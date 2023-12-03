@@ -163,3 +163,4 @@ ffmpeg/
 
 Pipfile
 Pipfile.lock
+*.mp4
